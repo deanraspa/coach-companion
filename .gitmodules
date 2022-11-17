@@ -1,0 +1,3 @@
+[submodule "PolyDiceGenerator"]
+	path = PolyDiceGenerator
+	url = git@github.com:charmaur/PolyDiceGenerator.git
